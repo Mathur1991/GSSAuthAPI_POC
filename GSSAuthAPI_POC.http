@@ -1,0 +1,6 @@
+@GSSAuthAPI_POC_HostAddress = http://localhost:5201
+
+GET {{GSSAuthAPI_POC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
